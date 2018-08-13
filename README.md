@@ -1,2 +1,2 @@
 # learning-flow
-Learning about Flow
+Learning about Flow using the docs
