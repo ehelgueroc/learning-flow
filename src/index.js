@@ -7,6 +7,7 @@ let something: any = [1,2,3];
 let users: string[] = ['John', 'Sara'];
 let ids: number[] = [1,2,3];
 
+// INTERFACE
 let person: Person;
 
 person = {
@@ -20,3 +21,11 @@ interface Person {
 	age: number;
 	hasKids?: boolean;
 }
+
+// FUNCTIONS
+
+function greeting(name: string): string{
+	return 'Hello ' + name;
+}
+
+console.log(greeting(1));
