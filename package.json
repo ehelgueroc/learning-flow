@@ -1,0 +1,23 @@
+{
+  "name": "learning-flow",
+  "version": "1.0.0",
+  "description": "Sample Flow app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ehelgueroc/learning-flow.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ehelgueroc/learning-flow/issues"
+  },
+  "homepage": "https://github.com/ehelgueroc/learning-flow#readme",
+  "devDependencies": {
+    "babel-cli": "^6.26.0",
+    "babel-preset-flow": "^6.23.0"
+  }
+}
